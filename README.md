@@ -24,6 +24,10 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="50" height="35"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="50" height="35"/></a>
 
+### Here's my resume
+
+[Click here!](https://docs.google.com/document/d/1EP9rpC11zXwM9Vw0oakBAaITQxSfWzRsKROm4MiNDCo/edit?usp=drive_link)
+
 ###
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahpietersen&layout=compact)
