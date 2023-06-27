@@ -1,6 +1,6 @@
 # Hi there 👋 I am Hannah
 
-### I'm an aspiring Web Developer 
+### I'm an aspiring Frontend Developer 
 
 ***
 
