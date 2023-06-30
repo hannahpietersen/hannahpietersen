@@ -1,4 +1,4 @@
-# Hi there 👋 I am Hannah
+# Hello 👋 I am Hannah
 
 ### I'm an aspiring Frontend Developer 
 
