@@ -1,6 +1,6 @@
 # Hello 👋 I am Hannah
 
-### I'm an aspiring Frontend Developer 
+### Looking for Frontend Developer role(full-time/internship)
 
 ***
 
