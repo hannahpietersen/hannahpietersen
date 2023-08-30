@@ -1,12 +1,12 @@
 # Hello 👋 I am Hannah
 
-### Looking for Frontend Developer role(full-time/internship)
+### Looking for a Fullstack dev role with eager interest in Frontend(full-time/internship)
 
 ***
 
 - 🔭 I’m currently working on **projects to add to my portfolio**
-- 🌱 I’m currently learning **NodeJS and Tailwind CSS**
-- 🥅  My goal is to **become a Frontend Developer**
+- 🌱 I’m currently learning **Typescript and Tailwind CSS**
+- 🥅  My goal is to **become a Fullstack Developer**
 
 ### 🌐 Connect with me:
 
@@ -23,6 +23,20 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" width="50" height="35"/></a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="50" height="35"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="50" height="35"/></a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" alt="MongoDB" width="50" height="35"/>
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="60" height="60"/>
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js" width="50" height="35"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://www.typescriptlang.org/assets/images/icons/favicon-96x96.png" alt="TypeScript" width="50" height="35"/>
+</a>
+
+
 
 ### Here's my resume
 
