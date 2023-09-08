@@ -1,40 +1,25 @@
-# Hello 👋 I am Hannah
+# Hi there 👋, my name is Hannah K
 
-### Looking for a Fullstack dev role with eager interest in Frontend(full-time/internship)
+I'm a 23-year-old aspiring developer from Bengaluru, India with a degree in Bachelor of Technology. Passionate about tech, I'm always on the lookout for the latest trends, and love diving into new projects that challenge and grow my skills. Outside of coding, you'll find me lifting weights or taking a nap. Want to get to know me more? Let's connect and collaborate!
 
-***
+Feel free to check out my repositories!
 
-- 🔭 I’m currently working on **projects to add to my portfolio**
-- 🌱 I’m currently learning **Typescript and Tailwind CSS**
-- 🥅  My goal is to **become a Fullstack Developer**
 
-### 🌐 Connect with me:
 
-<div>
-<a href="https://www.linkedin.com/in/hannahk26/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" alt="linkedin-logo" height="40" width="40" target="_blank" rel="noopener noreferrer"/></a>
-</div>
+## Current Skills ⌨️
 
-### 🛠️ Languages and Tools:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)[![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Git](https://img.shields.io/badge/Git-green?style=for-the-badge&logo=git&logoColor=pink)![Postman](https://img.shields.io/badge/Postman-blue?style=for-the-badge&logo=postman&logoColor=Orange)![VS Code](https://img.shields.io/badge/VS%20Code-pink?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 
-<div> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="35"/></a>  
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="50" height="35"/></a>  
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="50" height="35"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" width="50" height="35"/></a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="50" height="35"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="50" height="35"/></a>
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" alt="MongoDB" width="50" height="35"/>
-</a>
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="60" height="60"/>
-</a>
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js" width="50" height="35"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://www.typescriptlang.org/assets/images/icons/favicon-96x96.png" alt="TypeScript" width="50" height="35"/>
-</a>
+
+
+## Other 🍎
+
+-   🌱 Currently creating a ChatGPT clone!
+-   📫 How to reach me: hannahkongara7@gmail.com
+-   ⬇️ My LinkedIn: https://www.linkedin.com/in/hannahk26/
+-   🏋️‍♂️ Fitness Page: https://www.instagram.com/hannahpietersen_/
+-   📱  Blog: https://www.thedefaulttlife.wordpress.com/
+
 
 
 
