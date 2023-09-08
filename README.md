@@ -14,7 +14,7 @@ Feel free to check out my repositories!
 
 ## Other 🍎
 
--   🌱 Currently creating a ChatGPT clone!
+-   🌱 Currently creating a Chat Application!
 -   📫 How to reach me: hannahkongara7@gmail.com
 -   ⬇️ My LinkedIn: https://www.linkedin.com/in/hannahk26/
 -   🏋️‍♂️ Fitness Page: https://www.instagram.com/hannahpietersen_/
