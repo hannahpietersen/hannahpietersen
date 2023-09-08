@@ -17,7 +17,7 @@ Feel free to check out my repositories!
 -   🌱 Currently creating a Chat Application!
 -   📫 How to reach me: hannahkongara7@gmail.com
 -   ⬇️ My LinkedIn: https://www.linkedin.com/in/hannahk26/
--   🏋️‍♂️ Fitness Page: https://www.instagram.com/hannahpietersen_/
+-   🏋️‍♂️ My Instagram: https://www.instagram.com/hannahpietersen_/
 -   📱  Blog: https://www.thedefaulttlife.wordpress.com/
 
 
